@@ -23,6 +23,17 @@ Perfect for:
 
 ---
 
+## 🧠 Bestbuy OpsKit
+> Find out everything you need to know to reliably scrape Bestbuy with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/bestbuy)
+
+This kit provides the blueprint for Bestbuy scraping operations:
+- **Overview:** Scraping Summary, Anti-Bots
+- **Data:** Data Types, Public APIs
+- **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
+- **Resources:** GitHub, Articles, YouTube
+
+---
+
 ## 📑 Quick Index
 - [Featured Scrapers](#featured-bestbuy-scrapers)
 - [Scrapers By Language](#bestbuy-scrapers-by-language)
@@ -36,51 +47,50 @@ Perfect for:
 ## 📦 Featured Scrapers <a id="featured-bestbuy-scrapers"></a>
 > 🏅 Hand-picked, most robust & well-maintained scrapers.
 
-| Name | Language | Stars | Maintained | Last Updated | ScrapeOps-Ready |
-|------|----------|-------|------------|--------------|-----------------|
-| [WebRequest_BestBuy_IGCA_T3.1](https://github.com/yeicobF/WebRequest_BestBuy_IGCA_T3.1) ![img](https://github.com/yeicobF.png?size=20) | c# | ⭐ 2 | ✅ Yes | 2020-12-14 | ✅ |
-| [bestbuy-scraper](https://github.com/SuperCheese21/bestbuy-scraper) ![img](https://github.com/SuperCheese21.png?size=20) | javascript | ⭐ 1 | ✅ Yes | 2021-07-25 | ✅ |
-| [bestbuyca-scraper](https://github.com/chenbh/bestbuyca-scraper) ![img](https://github.com/chenbh.png?size=20) | go | ⭐ 1 | ✅ Yes | 2021-03-27 | ✅ |
+| Name | Language | Stars | Maintained | Last Updated |
+|------|----------|-------|------------|--------------|
+| [WebRequest_BestBuy_IGCA_T3.1](https://github.com/yeicobF/WebRequest_BestBuy_IGCA_T3.1) ![img](https://github.com/yeicobF.png?size=20) | c# | ⭐ 2 | ❌ No | 2020-12-14 |
+| [bestbuy-scraper](https://github.com/SuperCheese21/bestbuy-scraper) ![img](https://github.com/SuperCheese21.png?size=20) | javascript | ⭐ 1 | ❌ No | 2021-07-25 |
+| [bestbuyca-scraper](https://github.com/chenbh/bestbuyca-scraper) ![img](https://github.com/chenbh.png?size=20) | go | ⭐ 1 | ❌ No | 2021-03-27 |
 
 🟢 = actively maintained \| 🔴 = not updated in 6 + months
 
 ---
 
 ## 🧑‍💻 Bestbuy Scrapers By Language <a id="bestbuy-scrapers-by-language"></a>
-
-### C#
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [WebRequest_BestBuy_IGCA_T3.1](https://github.com/yeicobF/WebRequest_BestBuy_IGCA_T3.1) | ⭐ 2 | 2020-12-14 | — | ✅ Yes |
-
-
-### Go
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [bestbuyca-scraper](https://github.com/chenbh/bestbuyca-scraper) | ⭐ 1 | 2021-03-27 | — | ✅ Yes |
+### Python
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [bestbuy_scraper](https://github.com/himanshuk-dev/bestbuy_scraper) | ⭐ 0 | 2025-03-24 | immediate | ✅ Yes |
+| [BBOS](https://github.com/IEIDGG/BBOS) | ⭐ 0 | 2025-02-28 | professional | ✅ Yes |
+| [Scraper](https://github.com/Inder-G/Scraper) | ⭐ 0 | 2020-01-01 | immediate | ❌ No |
 
 
 ### Node.js
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [bestbuy-scraper](https://github.com/SuperCheese21/bestbuy-scraper) | ⭐ 1 | 2021-07-25 | — | ✅ Yes |
-| [BestbuyDetailsScraper](https://github.com/Equidem/BestbuyDetailsScraper) | ⭐ 0 | 2022-04-03 | — | ✅ Yes |
-| [bestbuy-ps-scraper](https://github.com/nedjulius/bestbuy-ps-scraper) | ⭐ 0 | 2022-01-13 | — | ✅ Yes |
-| [bestbuy_scraper](https://github.com/ripred31/bestbuy_scraper) | ⭐ 0 | 2021-11-28 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [bestbuy-scraper](https://github.com/SuperCheese21/bestbuy-scraper) | ⭐ 1 | 2021-07-25 | immediate | ❌ No |
+| [BestbuyDetailsScraper](https://github.com/Equidem/BestbuyDetailsScraper) | ⭐ 0 | 2022-04-03 | professional | ❌ No |
+| [bestbuy-ps-scraper](https://github.com/nedjulius/bestbuy-ps-scraper) | ⭐ 0 | 2022-01-13 | immediate | ❌ No |
+| [bestbuy_scraper](https://github.com/ripred31/bestbuy_scraper) | ⭐ 0 | 2021-11-28 | beginner | ❌ No |
 
 
-### Python
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [bestbuy_scraper](https://github.com/himanshuk-dev/bestbuy_scraper) | ⭐ 0 | 2025-03-24 | — | ✅ Yes |
-| [BBOS](https://github.com/IEIDGG/BBOS) | ⭐ 0 | 2025-02-28 | — | ✅ Yes |
-| [Scraper](https://github.com/Inder-G/Scraper) | ⭐ 0 | 2020-01-01 | — | ✅ Yes |
+### C#
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [WebRequest_BestBuy_IGCA_T3.1](https://github.com/yeicobF/WebRequest_BestBuy_IGCA_T3.1) | ⭐ 2 | 2020-12-14 | beginner | ❌ No |
+
+
+### Go
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [bestbuyca-scraper](https://github.com/chenbh/bestbuyca-scraper) | ⭐ 1 | 2021-03-27 | immediate | ❌ No |
 
 
 ### Ruby
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [BestBuy](https://github.com/willpjohnson/BestBuy) | ⭐ 0 | 2017-09-06 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [BestBuy](https://github.com/willpjohnson/BestBuy) | ⭐ 0 | 2017-09-06 | professional | ❌ No |
 
 ---
 
@@ -111,7 +121,7 @@ Know a Bestbuy scraper we missed? Want us to include your project?
 
 - Click **[New Issue](../../issues/new)** on this repo
 - Include the GitHub URL, language, and brief description
-- We’ll validate and include it in the next update
+- We'll validate and include it in the next update
 
 All contributions welcome! We'll vet and include approved scrapers in the next update.
 
