@@ -24,7 +24,7 @@ Perfect for:
 ---
 
 ## 🧠 Bestbuy OpsKit
-> Find out everything you need to know to reliably scrape Bestbuy with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/bestbuy)
+> Find out everything you need to know to reliably scrape Bestbuy with our new tool: [Ops Kit](https://scrapeops.io/websites/bestbuy)
 
 This kit provides the blueprint for Bestbuy scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
@@ -109,7 +109,7 @@ This kit provides the blueprint for Bestbuy scraping operations:
 ---
 
 ## 🧠 Bestbuy Tutorials & How-Tos<a id="bestbuy-tutorials"></a>
-- 📘 [How to Scrape Bestbuy at Scale](https://scrapeops.io/web-scraping-playbook/how-to-scrape-bestbuy/)
+- 📘 [How to Scrape Bestbuy at Scale](https://scrapeops.io/websites/bestbuy/how-to-scrape-bestbuy)
 - 🔐 [Web Scraping Bestbuy Without Getting Blocked](https://scrapeops.io/web-scraping-playbook/web-scraping-without-getting-blocked/)
 - 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/)
 
