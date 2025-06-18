@@ -23,10 +23,10 @@ Perfect for:
 
 ---
 
-## 🧠 Bestbuy OpsKit
-> Find out everything you need to know to reliably scrape Bestbuy with our new tool: [Ops Kit](https://scrapeops.io/websites/bestbuy)
+## 🧠 Bestbuy Website Scraping Analyzer
+> Find out everything you need to know to reliably scrape Bestbuy with our new tool: [Website Scraping Analyzer](https://scrapeops.io/websites/bestbuy)
 
-This kit provides the blueprint for Bestbuy scraping operations:
+Our Website Scraping Analyzer provides the blueprint for Bestbuy scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
 - **Data:** Data Types, Public APIs
 - **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
@@ -135,7 +135,6 @@ All contributions welcome! We'll vet and include approved scrapers in the next u
 
 ## 🏷 Tags
 Bestbuy scraper, web scraping, bestbuy API, python scraper, playwright, data scraping, anti-bot, github, open-source bestbuy crawler, ScrapeOps
-
 
 ---
 
